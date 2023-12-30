@@ -5,7 +5,8 @@ import project2 from "../assets/images/project-2.jpg";
 import project3 from "../assets/images/project-3.jpg";
 import project4 from "../assets/images/project-4.jpg";
 import project5 from "../assets/images/project-5.png";
-import project_person from "../assets/images/project_person1.png";
+import project_person from "../assets/images/pfe1.png";
+// import project_person from "../assets/images/project_person1.png";
 import "swiper/css";
 import "swiper/css/pagination";
 import { Pagination, Autoplay } from "swiper/modules";
@@ -15,8 +16,8 @@ const Project = () => {
     {
       img: project1,
       name: "Online Learning Platform",
-      github_link: "https://github.com/adityaj243/learnOnline",
-      live_link: "https://github.com/adityaj243/learnOnline",
+      github_link: "https://github.com/adityaj243/learnOnline3",
+      live_link: "https://64c65f5b71ccc67f5c6996c3--splendid-marshmallow-eb6e0d.netlify.app/",
     }
     // {
     //   img: project2,
