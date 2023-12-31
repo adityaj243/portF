@@ -1,6 +1,6 @@
 import React from "react";
 import aboutImg from "../assets/images/pfe1.png";
-import resume from "../assets/Aditya_Joshi_Resume_23_all_4.pdf"
+import resume from "../assets/Aditya_Joshi_Resume_CV.pdf"
 // import resume from "../assets/Aditya_Joshi_Resume_19.pdf"
 // import resume from "./src/assets/Aditya_Joshi_Resume_19.pdf"
 const About = () => {
